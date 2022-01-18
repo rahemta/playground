@@ -1,0 +1,16 @@
+Date
+Project
+Energy (keV)
+Energy Bandwidth (keV)
+Divergence (urad)
+Beamsize X
+Beamsize Z
+Mono
+IOC 1
+IOC 1 HV On
+IOC 1 Gas
+IOC 2
+IOC 2 HV On
+IOC 2 Gas
+Comments
+
