@@ -1,0 +1,10 @@
+label,Name,Fit_A,Fit_B
+monoth,Mono Rotation,1.9804,-7.0078
+monot,Mono Translation,-33.5,
+monoz,Mono Z,22.5,
+monor,Mono Roll,-1.93,
+monop,Mono Pitch,3.4,
+tyaw,Table Yaw,1.999,14.009
+tus,Table US,171.12,224.193
+tds,Table DS,240.928,316.672
+focus,Vertical Focus,24.3,-864
