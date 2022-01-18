@@ -163,7 +163,7 @@ class PositionCal(QWidget):
 
 		#val = float(self.item(0,0).text())
 		#Will Become and EPICS gets
-		val = -1.33+random.uniform(-0.01,0.01)
+		val = -1.331+random.uniform(-0.01,0.01)
 		self.pos.setItem(0,0,QTableWidgetItem("{0:.5g}".format(val)))
 		val = 11.41+random.uniform(-0.1,0.1)
 		self.pos.setItem(0,1,QTableWidgetItem("{0:.5g}".format(val)))
